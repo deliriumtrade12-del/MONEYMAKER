@@ -1,0 +1,6 @@
+name = "moneymaker"
+main = "src/index.js"
+compatibility_date = "2024-06-01"
+
+[ai]
+binding = "AI"
